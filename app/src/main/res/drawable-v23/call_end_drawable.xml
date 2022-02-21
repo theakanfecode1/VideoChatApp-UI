@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/circle_red_phone"
+        android:gravity="center"
+        />
+
+
+    <item
+        android:top="7dp"
+        android:bottom="7dp"
+        android:left="7dp"
+        android:right="7dp"
+        android:drawable="@drawable/circle_avatar_red" />
+    <item
+        android:drawable="@drawable/ic_baseline_call_end_24"
+        android:top="20dp"
+        android:bottom="20dp"
+        android:left="20dp"
+        android:right="20dp"
+        />
+</layer-list>

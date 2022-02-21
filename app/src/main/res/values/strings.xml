@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoChatApp</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="search_your_contacts">Search your contacts</string>
+</resources>
